@@ -9,3 +9,5 @@ $$ y = \int_0^\infty f(x,y)dx $$
 And the answer seems to be "yes it can"
 
 That said, I don't think this is the place to experiment with html_widgets. I think that comes later.
+
+# Here I made some more edits to my website
